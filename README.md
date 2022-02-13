@@ -1,5 +1,9 @@
 # CRYSTALS.COM
 
-Made with HTML+SCSS
+Made with HTML+SCSS for 1455px width screens
 
-Watch page online: 
+## DEMO
+
+![]()
+
+## Watch page online: 
